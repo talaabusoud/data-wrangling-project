@@ -1,0 +1,11 @@
+# datasets_links.txt
+
+Dataset 1 - Movies Metadata (Kaggle):
+https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
+
+Dataset 2 - IMDb Title Basics:
+https://datasets.imdbws.com/title.basics.tsv.gz
+
+
+All datasets can be found in the following Drive link, as the files are too large to include directly:
+https://drive.google.com/drive/folders/19SmSLIa8syjhSigrBhpuk0ugdk2O8hM7?usp=sharing
